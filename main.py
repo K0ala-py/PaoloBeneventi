@@ -1,6 +1,6 @@
 import time
 password = input('Enter password : ')
-if password == '1674152845266890757':
+if password == '1674166506886660098':
   print('Scanning... ')
   time.sleep(3)
   print('Done!')
