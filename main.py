@@ -6,3 +6,5 @@ if password == '1674152845266890757':
   print('Done!')
   time.sleep(1)
   print('The Answer is : S3cr3tPassword000')
+else:
+  print('Wrong Password!')
